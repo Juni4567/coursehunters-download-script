@@ -1,0 +1,16 @@
+{
+  "name": "pupeeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^1.8.0"
+  }
+}
